@@ -7,7 +7,7 @@ It's pointless!
 
 Still here?
 
-Generate some fantastic art from your git commit ids.
+Generate some fantastic art from your git object ids.
 
 ## Usage
 
